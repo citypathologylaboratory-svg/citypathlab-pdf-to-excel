@@ -13,7 +13,7 @@
     "react-dom": "^18",
     "pdfjs-dist": "^4.4.168",
     "xlsx": "^0.18.5"
-        "jszip": "^3.10.1"
+        "jszip": "^3.10.1",
   },
   "devDependencies": {
     "@types/node": "^20",
